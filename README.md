@@ -285,27 +285,25 @@ Copy code
     "children": [...]
   }
 }
+```
 Before/After Results
 
 Before: "The login form looks broken"
 
 After: "The form validation is failing because the email input has type="text" instead of type="email", and the required attribute isn't set on the password field."
 
-🤝 Contributing
-Add your proven prompts! Submit a PR with:
+### 🤝 Contributing
 
+ ## Add your proven prompts! Submit a PR with:
 Clear category and use case
-
 Example JSON input (anonymized)
-
 Expected output quality
-
 Real-world context where it helped
 
-📝 License
+### 📝 License
 MIT — Use these prompts however helps your workflow.
 
-🔗 Related
+### 🔗 Related
 Element to LLM Extension
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/element-to-llm/oofdfeinchhgnhlikkfdfcldbpcjcgnj)
