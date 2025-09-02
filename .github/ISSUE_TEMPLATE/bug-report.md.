@@ -1,0 +1,20 @@
+---
+name: "Bug report"
+about: Report a bug in an existing prompt
+title: "[Bug] "
+labels: bug
+assignees: ""
+---
+
+## Prompt Name
+Which prompt is problematic?
+
+## JSON Example
+Provide a snapshot or placeholder
+
+## Issue Description
+What went wrong?
+
+## Expected vs Actual
+- **Expected:**  
+- **Actual:**
