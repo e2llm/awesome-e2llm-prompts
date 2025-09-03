@@ -1,5 +1,7 @@
 # Awesome E2LLM Prompts
-
+![GitHub stars](https://img.shields.io/github/stars/e2llm/awesome-e2llm-prompts?style=social)
+![License](https://img.shields.io/github/license/e2llm/awesome-e2llm-prompts)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Curated prompts for Element to LLM (E2LLM): runtime DOM → JSON snapshots for debugging, QA, UX, and LLM workflows.
 
 **Element to LLM** captures live DOM state and exports structured JSON that LLMs can reason over. This repo contains battle-tested prompts to get the most out of your DOM snapshots.
