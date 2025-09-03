@@ -1,18 +1,22 @@
 # Awesome E2LLM Prompts
+
 ![GitHub stars](https://img.shields.io/github/stars/e2llm/awesome-e2llm-prompts?style=social)
 ![License](https://img.shields.io/github/license/e2llm/awesome-e2llm-prompts)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Curated prompts for Element to LLM (E2LLM): runtime DOM → JSON snapshots for debugging, QA, UX, and LLM workflows.
 
-**Element to LLM** captures live DOM state and exports structured JSON that LLMs can reason over. This repo contains battle-tested prompts to get the most out of your DOM snapshots.
+**Keywords:** DOM snapshot, LLM debugging, runtime DOM analysis, element inspection, web debugging prompts, e2llm
+> Curated prompts for LLM debugging with runtime DOM snapshots. Transform live DOM state into structured JSON for better AI analysis.
 
+**Element to LLM** captures live DOM snapshot and exports structured JSON that LLMs can reason over. This repo contains battle-tested prompts to get the most out of your DOM snapshots.
+
+⭐ If you find this useful, give the repo a star — it helps others discover it.
 ## 🔗 Get the Extension
 - [Chrome Web Store](https://chromewebstore.google.com/detail/element-to-llm/oofdfeinchhgnhlikkfdfcldbpcjcgnj)
 - [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/element-to-llm/)
 
 ## 📚 Categories
 
-### 🐛 Debugging
+### 🐛 DOM Debugging
 Find and fix UI issues faster with structured DOM context.
 
 **Basic Bug Analysis**
@@ -168,7 +172,7 @@ Copy code
 
 ---
 
-### 🤖 Test Automation
+### 🤖 Test Automation & Selectors
 Generate reliable selectors and test scenarios.
 
 **Stable Selectors**
@@ -312,3 +316,6 @@ Element to LLM Extension
 - [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/element-to-llm/)
 
 Runtime DOM snapshots > static code. Debug smarter, not harder.
+
+## 🔍 Search Terms
+Find this repo by searching: `dom debugging llm`, `runtime dom json`, `element snapshot prompts`
